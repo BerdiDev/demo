@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post berdi 1" },
-    { "id": 2, "title": "Post berdi 2" },
-    { "id": 3, "title": "Post berdi 3" }
+    { "id": 1, "name": "Fast and Furious", "image": "htttps://images-na.ssl-images-amazon.com/images/I/910VekmDZ5L._AC_SY741_.jpg" },
+    { "id": 2, "name": "Ninja Turtles", "image": "htttps://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg" },
+    { "id": 3, "name": "Midway", "image": "https://i.pinimg.com/564x/63/24/6d/63246d6551c07c6948686b170bd86961.jpg"}
   ],
   "comments": [
     { "id": 1, "body": "some comment of berdi", "postId": 1 },
