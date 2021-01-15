@@ -4,7 +4,7 @@
     { "id": 2, "name": "Ninja Turtles", "image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"},
     { "id": 3, "name": "Midway", "image": "https://i.pinimg.com/564x/63/24/6d/63246d6551c07c6948686b170bd86961.jpg"}
   ],
-  "comments": 
+  "comments": [ 
     { "id": 1, "body": "some comment of berdi", "postId": 1 },
     { "id": 2, "body": "some comment of berdi", "postId": 1 }
   ],
